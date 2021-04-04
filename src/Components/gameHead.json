@@ -1,0 +1,47 @@
+[
+  {
+    "sitekey": "Cricket",
+
+    "wallpapers": [
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-09vWtk9boYD5rRIHvdVdn773xuqEWfGzw&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwplfpxqxydlzUg5hufpk6RjRm6P8rVNxAQ&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTof9CyvlNLjvMfkMcSse7bAZTKudm8GWrWFw&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "sitekey": "Soccer",
+
+    "wallpapers": [
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1C9J4auaYhhDGcBkBovleqzYZWlA_SUCC1A&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILMyNGr_mHw1B0Z2Zq7VRCJI_FbIK_NdykA&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILMyNGr_mHw1B0Z2Zq7VRCJI_FbIK_NdykA&usqp=CAU"
+      }
+    ]
+  },
+
+  {
+    "sitekey": "Basketball",
+    "wallpapers": [
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQTHPU9EnCwAWlk0d-D7qflEtBKtbiX-psQ&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT77xlVkaoB0nInjZv7LoloQOIybWnAWmZXw&usqp=CAU"
+      },
+      {
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CnVT47elbrkRaTNEmiaMBSpEjBVJ6Xz27Q&usqp=CAU"
+      }
+    ]
+  }
+]

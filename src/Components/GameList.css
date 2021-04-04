@@ -1,0 +1,35 @@
+.site-button-ghost-wrapper1 {
+  padding: 1px;
+  overflow-x: auto;
+  display: flex;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* .site-button-ghost-wrapper {
+  padding: 4px;
+  background: rgb(167, 168, 163);
+} */
+.game__Tabs {
+  display: flex;
+  flex-direction: column;
+}
+
+.game__header,
+.home__cards {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  /* min-width: 128px; */
+  min-width: 200px;
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 2px;
+}

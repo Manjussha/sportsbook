@@ -1,0 +1,82 @@
+.dash__batting_Grid {
+  padding: 1px;
+}
+.batting_place {
+  width: 100%;
+  border: 1px dotted;
+}
+.batting_place > th,
+td {
+  /* width: 100%; */
+  border: 1px dotted;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  /* width: 100%; */
+  /* border: 1px solid rgb(214, 29, 29); */
+  display: table;
+  table-layout: fixed;
+  flex-wrap: wrap;
+}
+.odd_container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+.odd__teamName,
+.odd__point {
+  padding: 5px;
+}
+th,
+td {
+  text-align: center;
+  padding: 2px;
+  /* border: 1px solid rgb(116 109 109); */
+  cursor: pointer;
+  background: lightgrey;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* font-size: 30px; */
+  text-align: center;
+}
+
+.flex-item-left {
+  background-color: #f1f1f1;
+  padding: 3px;
+  flex: 60%;
+  border: dashed 1px red;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex-item-right {
+  background-color: dodgerblue;
+  padding: 3px;
+  flex: 40%;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+/* Responsive layout - makes a one column-layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .flex-item-right,
+  .flex-item-left {
+    flex: 100%;
+  }
+}
+
+.lay_data {
+  background-color: red;
+  font-weight: 700;
+  color: white;
+}
+.odd_data {
+  background-color: blue;
+  font-weight: 700;
+  color: white;
+}

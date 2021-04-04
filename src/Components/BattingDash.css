@@ -1,0 +1,12 @@
+site-layout .site-layout-background {
+  background: #fff;
+}
+.dash__batting_Grid {
+  display: block;
+  align-items: center;
+  justify-content: center;
+
+  /* align-items: stretch; */
+  /* overflow: hidden; */
+  /* content-visibility: inherit; */
+}
